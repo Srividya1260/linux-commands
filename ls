@@ -1,0 +1,1 @@
+displays detailed information about a directory without showing its content
